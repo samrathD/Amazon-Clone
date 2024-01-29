@@ -12,3 +12,6 @@ HTML and CSS: Implemented purely with HTML for structure and CSS for styling.
 # Technologies Used
 * HTML: Used for structuring the content and layout of the webpage.
 * CSS: Employed for styling elements, including fonts, colors, layouts, and responsiveness.
+
+# Access Website at 
+* https://samrathd.github.io/Amazon_Clone---Personal-Project/ 
